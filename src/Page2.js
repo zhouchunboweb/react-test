@@ -12,6 +12,7 @@ class Page2 extends React.Component {
     return(
       <div>
         <div style={mystyle}>This is Page2!</div>
+        <div>真是美好的一天啊</div>
       </div>
     )
   }
